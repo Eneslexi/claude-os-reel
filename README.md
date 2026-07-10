@@ -1,8 +1,8 @@
 # Claude OS
 
-Bir **AI second brain / komuta merkezi** görselleştirmesi: bilgi grafiğini uzayda dönen bir nebula olarak render eder. Notlar/projeler ışıldayan node'lar, bağlantılar filament çizgileri; merkezde canlı bir çekirdek.
+Bir **AI second brain / komuta merkezi** ürünü için tam ekran, sinematik **landing page**. Arka planda uzayda dönen 3D partikül nebulası; üstünde glassmorphism navbar, gradient hero, bento özellik kartları, bağlı bilgi grafiği bölümü ve CTA.
 
-Three.js partikül nebulası + bloom + node graph overlay + HUD. **Tek dosya (`index.html`), build gerekmez.**
+Three.js partikül nebulası + bloom, vanilla HTML/CSS/JS. **Tek dosya (`index.html`), build gerekmez.**
 
 👉 **Canlı demo:** https://eneslexi.github.io/claude-os-reel/
 
