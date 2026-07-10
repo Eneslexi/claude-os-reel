@@ -1,6 +1,6 @@
-# Claude OS — Reel
+# Claude OS
 
-Sosyal medyada dolaşan **"POV: It's 3 AM but you have Claude Max"** reel'indeki 3D "AI second brain / komuta merkezi" görselinin çalışan, açık kaynak klonu.
+Bir **AI second brain / komuta merkezi** görselleştirmesi: bilgi grafiğini uzayda dönen bir nebula olarak render eder. Notlar/projeler ışıldayan node'lar, bağlantılar filament çizgileri; merkezde canlı bir çekirdek.
 
 Three.js partikül nebulası + bloom + node graph overlay + HUD. **Tek dosya (`index.html`), build gerekmez.**
 
@@ -78,8 +78,6 @@ Toplam ~350 satır tek dosya. Mantık 6 katman:
 
 ## Teknoloji
 Three.js (r160, CDN importmap) · WebGL2 · UnrealBloomPass · vanilla JS/HTML/CSS. Framework yok, bağımlılık yok.
-
-Bruno Simon'ın [Three.js Journey](https://threejs-journey.com) "galaxy" dersinden ilham alır.
 
 ## Lisans
 MIT — dilediğin gibi kullan, çatalla, değiştir.
