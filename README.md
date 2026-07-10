@@ -4,7 +4,7 @@ Sosyal medyada dolaşan **"POV: It's 3 AM but you have Claude Max"** reel'indeki
 
 Three.js partikül nebulası + bloom + node graph overlay + HUD. **Tek dosya (`index.html`), build gerekmez.**
 
-👉 **Canlı demo:** _(GitHub Pages linki README'nin altında)_
+👉 **Canlı demo:** https://eneslexi.github.io/claude-os-reel/
 
 ![önizleme](preview.png)
 
