@@ -23,7 +23,7 @@ Ya da hiç indirmeden **canlı demoyu** aç (link aşağıda). İçerik/kayıt i
 
 ---
 
-## Nasıl yapıldı — adım adım
+## Nasıl yapıldı, adım adım
 
 Toplam ~350 satır tek dosya. Mantık 6 katman:
 
@@ -80,4 +80,4 @@ Toplam ~350 satır tek dosya. Mantık 6 katman:
 Three.js (r160, CDN importmap) · WebGL2 · UnrealBloomPass · vanilla JS/HTML/CSS. Framework yok, bağımlılık yok.
 
 ## Lisans
-MIT — dilediğin gibi kullan, çatalla, değiştir.
+MIT. Dilediğin gibi kullan, çatalla, değiştir.
